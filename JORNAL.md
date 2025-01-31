@@ -1,4 +1,4 @@
-
+![Banner do Jornal](banner.jpeg)
 # The Daily Insight
 ### *Edição de Hoje - 30 de Janeiro de 2025*
 
